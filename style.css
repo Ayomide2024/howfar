@@ -1,0 +1,14 @@
+body{
+    background-image:linear-gradient(rgba(0,0,0,60%),rgba(0,0,0,60%)), url(guitar-5531027.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:100vh;
+}
+.hi{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: monospace;
+    color:#fff ;
+}
